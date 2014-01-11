@@ -1,0 +1,119 @@
+Error Code:
+Logfile of Trend Micro HijackThis v2.0.5
+Scan saved at 1:02:59 PM, on 1/11/2014
+Platform: Unknown Windows (WinNT 6.02.1008)
+MSIE: Internet Explorer v10.0 (10.00.9200.16537)
+
+
+Boot mode: Normal
+
+Running processes:
+C:\PROGRA~2\SearchProtect\SearchProtect\bin\cltmng.exe
+C:\PROGRA~2\SearchProtect\UI\bin\cltmngui.exe
+C:\Windows\SysWOW64\UMonit.exe
+C:\Windows\jmesoft\hotkey.exe
+C:\Program Files (x86)\Lenovo\PowerDVD10\PDVD10Serv.exe
+C:\Program Files (x86)\Lenovo\Power2Go\CLMLSvc.exe
+C:\Program Files (x86)\Mobogenie\DaemonProcess.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+c:\PROGRA~2\mcafee\SITEAD~1\saui.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+C:\Users\jacob_000\Downloads\HijackThis.exe
+
+R1 - HKCU\Software\Microsoft\Internet Explorer\Main,Default_Page_URL = http://lenovo13.msn.com
+R1 - HKCU\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
+R0 - HKCU\Software\Microsoft\Internet Explorer\Main,Start Page = http://lenovo13.msn.com
+R1 - HKLM\Software\Microsoft\Internet Explorer\Main,Default_Page_URL = http://go.microsoft.com/fwlink/p/?LinkId=255141
+R1 - HKLM\Software\Microsoft\Internet Explorer\Main,Default_Search_URL = http://go.microsoft.com/fwlink/?LinkId=54896
+R1 - HKLM\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
+R0 - HKLM\Software\Microsoft\Internet Explorer\Main,Start Page = http://go.microsoft.com/fwlink/p/?LinkId=255141
+R0 - HKLM\Software\Microsoft\Internet Explorer\Search,SearchAssistant = 
+R0 - HKLM\Software\Microsoft\Internet Explorer\Search,CustomizeSearch = 
+R0 - HKLM\Software\Microsoft\Internet Explorer\Main,Local Page = C:\Windows\SysWOW64\blank.htm
+R0 - HKCU\Software\Microsoft\Internet Explorer\Toolbar,LinksFolderName = 
+F2 - REG:system.ini: UserInit=userinit.exe
+O2 - BHO: PassShow - {2d661e5b-7d7a-417c-b5b5-6479017bb314} - C:\Program Files (x86)\PassShow\150.dll (file missing)
+O2 - BHO: Java(tm) Plug-In SSV Helper - {761497BB-D6F0-462C-B6EB-D4DAF1D92D43} - C:\Program Files (x86)\Java\jre7\bin\ssv.dll
+O2 - BHO: McAfee SiteAdvisor BHO - {B164E929-A1B6-4A06-B104-2CD0E90A88FF} - c:\PROGRA~2\mcafee\SITEAD~1\mcieplg.dll
+O2 - BHO: GreatArcadeHits Add-on - {D0C21091-FF8E-432C-9006-0540E81BA9D7} - C:\Users\jacob_000\AppData\Local\GreatArcadeHits\GreatArcadeHitsIE.dll
+O2 - BHO: Connect DLC 5 - {d1b5aad5-d1ae-4b20-88b1-feeaeb4c1ebc} - C:\Program Files (x86)\Connect_DLC_5\prxtbConn.dll
+O2 - BHO: Java(tm) Plug-In 2 SSV Helper - {DBC80044-A445-435b-BC74-9C25C1C588A9} - C:\Program Files (x86)\Java\jre7\bin\jp2ssv.dll
+O3 - Toolbar: McAfee SiteAdvisor Toolbar - {0EBBBE48-BAD4-4B4C-8E5A-516ABECAE064} - c:\PROGRA~2\mcafee\SITEAD~1\mcieplg.dll
+O3 - Toolbar: Connect DLC 5 Toolbar - {d1b5aad5-d1ae-4b20-88b1-feeaeb4c1ebc} - C:\Program Files (x86)\Connect_DLC_5\prxtbConn.dll
+O4 - HKLM\..\Run: [jmekey] C:\windows\jmesoft\hotkey.exe
+O4 - HKLM\..\Run: [jmesoft] C:\Windows\jmesoft\ServiceLoader.exe
+O4 - HKLM\..\Run: [RemoteControl10] "C:\Program Files (x86)\Lenovo\PowerDVD10\PDVD10Serv.exe"
+O4 - HKLM\..\Run: [Intel AppUp(SM) center] "C:\Program Files (x86)\Intel\IntelAppStore\bin\ismagent.exe" --domain-id F0399437-FD0C-4A48-B101-F0314A6172E4
+O4 - HKLM\..\Run: [CLMLServer] "C:\Program Files (x86)\Lenovo\Power2Go\CLMLSvc.exe"
+O4 - HKLM\..\Run: [UpdateP2GoShortCut] "C:\Program Files (x86)\Lenovo\Power2Go\MUITransfer\MUIStartMenu.exe" "C:\Program Files (x86)\Lenovo\Power2Go" UpdateWithCreateOnce "SOFTWARE\CyberLink\Power2Go\6.0"
+O4 - HKLM\..\Run: [LVT] C:\Program Files\Lenovo\LVT\LJYZ.exe 1
+O4 - HKLM\..\Run: [mcpltui_exe] "C:\Program Files\McAfee.com\Agent\mcagent.exe" /runkey
+O4 - HKLM\..\Run: [mobilegeni daemon] C:\Program Files (x86)\Mobogenie\DaemonProcess.exe
+O4 - HKLM\..\Run: [Adobe ARM] "C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\AdobeARM.exe"
+O4 - HKLM\..\Run: [SunJavaUpdateSched] "C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe"
+O4 - HKUS\S-1-5-18\..\RunOnce: [SpUninstallDeleteDir] rmdir /s /q "\SearchProtect" (User 'SYSTEM')
+O4 - HKUS\.DEFAULT\..\RunOnce: [SpUninstallDeleteDir] rmdir /s /q "\SearchProtect" (User 'Default user')
+O11 - Options group: [ACCELERATED_GRAPHICS] Accelerated graphics
+O16 - DPF: {4FF78044-96B4-4312-A5B7-FDA3CB328095} (ExentInf1 Class) - 
+O18 - Protocol: dssrequest - {5513F07E-936B-4E52-9B00-067394E91CC5} - c:\PROGRA~2\mcafee\SITEAD~1\mcieplg.dll
+O18 - Protocol: sacore - {5513F07E-936B-4E52-9B00-067394E91CC5} - c:\PROGRA~2\mcafee\SITEAD~1\mcieplg.dll
+O18 - Filter: application/x-mfe-ipt - {3EF5086B-5478-4598-A054-786C45D75692} - c:\PROGRA~2\mcafee\msc\mcsniepl.dll
+O20 - AppInit_DLLs: C:\PROGRA~2\SearchProtect\SearchProtect\bin\SPVC32Loader.dll
+O23 - Service: Adobe Acrobat Update Service (AdobeARMservice) - Adobe Systems Incorporated - C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe
+O23 - Service: @%SystemRoot%\system32\Alg.exe,-112 (ALG) - Unknown owner - C:\windows\System32\alg.exe (file missing)
+O23 - Service: Search Protect by Conduit Service (CltMngSvc) - Conduit - C:\PROGRA~2\SearchProtect\Main\bin\CltMngSvc.exe
+O23 - Service: Intel(R) Content Protection HECI Service (cphs) - Intel Corporation - C:\windows\SysWow64\IntelCpHeciSvc.exe
+O23 - Service: @%SystemRoot%\system32\efssvc.dll,-100 (EFS) - Unknown owner - C:\windows\System32\lsass.exe (file missing)
+O23 - Service: @%systemroot%\system32\fxsresm.dll,-118 (Fax) - Unknown owner - C:\windows\system32\fxssvc.exe (file missing)
+O23 - Service: Google Update Service (gupdate) (gupdate) - Google Inc. - C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+O23 - Service: Google Update Service (gupdatem) (gupdatem) - Google Inc. - C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+O23 - Service: McAfee Home Network (HomeNetSvc) - McAfee, Inc. - C:\Program Files\Common Files\McAfee\Platform\McSvcHost\McSvHost.exe
+O23 - Service: Intel(R) Capability Licensing Service Interface - Intel(R) Corporation - C:\Program Files\Intel\iCLS Client\HeciServer.exe
+O23 - Service: Intel(R) Dynamic Application Loader Host Interface Service (jhi_service) - Intel Corporation - C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL\jhi_service.exe
+O23 - Service: JME Keyboard Driver (JME Keyboard) - Unknown owner - C:\Windows\jmesoft\Service.exe
+O23 - Service: @keyiso.dll,-100 (KeyIso) - Unknown owner - C:\windows\system32\lsass.exe (file missing)
+O23 - Service: Intel(R) Management and Security Application Local Management Service (LMS) - Intel Corporation - C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\LMS\LMS.exe
+O23 - Service: LSCWinService - Unknown owner - C:\Program Files\Lenovo\Lenovo Solution Center\App\LSCWinService.exe
+O23 - Service: McAfee SiteAdvisor Service - McAfee, Inc. - C:\Program Files\Common Files\McAfee\Platform\McSvcHost\McSvHost.exe
+O23 - Service: McAfee AP Service (McAPExe) - McAfee, Inc. - C:\Program Files\McAfee\MSC\McAPExe.exe
+O23 - Service: McAfee Personal Firewall Service (McMPFSvc) - McAfee, Inc. - C:\Program Files\Common Files\McAfee\Platform\McSvcHost\McSvHost.exe
+O23 - Service: McAfee VirusScan Announcer (McNaiAnn) - McAfee, Inc. - C:\Program Files\Common Files\McAfee\Platform\McSvcHost\McSvHost.exe
+O23 - Service: McAfee Scanner (McODS) - McAfee, Inc. - C:\Program Files\McAfee\VirusScan\mcods.exe
+O23 - Service: McAfee Platform Services (mcpltsvc) - McAfee, Inc. - C:\Program Files\Common Files\McAfee\Platform\McSvcHost\McSvHost.exe
+O23 - Service: McAfee Proxy Service (McProxy) - McAfee, Inc. - C:\Program Files\Common Files\McAfee\Platform\McSvcHost\McSvHost.exe
+O23 - Service: McAfee Anti-Malware Core (mfecore) - McAfee, Inc. - C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe
+O23 - Service: McAfee Firewall Core Service (mfefire) - McAfee, Inc. - C:\Program Files\Common Files\McAfee\SystemCore\\mfefire.exe
+O23 - Service: McAfee Validation Trust Protection Service (mfevtp) - Unknown owner - C:\windows\system32\mfevtps.exe (file missing)
+O23 - Service: McAfee Online Backup (MOBKbackup) - McAfee, Inc. - C:\Program Files (x86)\McAfee Online Backup\MOBKbackup.exe
+O23 - Service: @comres.dll,-2797 (MSDTC) - Unknown owner - C:\windows\System32\msdtc.exe (file missing)
+O23 - Service: McAfee Anti-Spam Service (MSK80Service) - McAfee, Inc. - C:\Program Files\Common Files\McAfee\Platform\McSvcHost\McSvHost.exe
+O23 - Service: @%SystemRoot%\System32\netlogon.dll,-102 (Netlogon) - Unknown owner - C:\windows\system32\lsass.exe (file missing)
+O23 - Service: NitroPDFDriverCreatorReadSpool8 (NitroDriverReadSpool8) - Nitro PDF Software - C:\Program Files\Common Files\Nitro\Pro\8.0\NitroPDFDriverService8x64.exe
+O23 - Service: Nalpeiron Licensing Service (nlsX86cc) - Nalpeiron Ltd. - C:\windows\SysWOW64\NLSSRV32.EXE
+O23 - Service: @%systemroot%\system32\Locator.exe,-2 (RpcLocator) - Unknown owner - C:\windows\system32\locator.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\samsrv.dll,-1 (SamSs) - Unknown owner - C:\windows\system32\lsass.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\snmptrap.exe,-3 (SNMPTRAP) - Unknown owner - C:\windows\System32\snmptrap.exe (file missing)
+O23 - Service: @%systemroot%\system32\spoolsv.exe,-1 (Spooler) - Unknown owner - C:\windows\System32\spoolsv.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\sppsvc.exe,-101 (sppsvc) - Unknown owner - C:\windows\system32\sppsvc.exe (file missing)
+O23 - Service: Steam Client Service - Valve Corporation - C:\Program Files (x86)\Common Files\Steam\SteamService.exe
+O23 - Service: @%SystemRoot%\system32\ui0detect.exe,-101 (UI0Detect) - Unknown owner - C:\windows\system32\UI0Detect.exe (file missing)
+O23 - Service: Intel(R) Management and Security Application User Notification Service (UNS) - Intel Corporation - C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\UNS\UNS.exe
+O23 - Service: @%SystemRoot%\system32\vaultsvc.dll,-1003 (VaultSvc) - Unknown owner - C:\windows\system32\lsass.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\vds.exe,-100 (vds) - Unknown owner - C:\windows\System32\vds.exe (file missing)
+O23 - Service: @%systemroot%\system32\vssvc.exe,-102 (VSS) - Unknown owner - C:\windows\system32\vssvc.exe (file missing)
+O23 - Service: @%systemroot%\system32\wbengine.exe,-104 (wbengine) - Unknown owner - C:\windows\system32\wbengine.exe (file missing)
+O23 - Service: @%ProgramFiles%\Windows Defender\MpAsDesc.dll,-310 (WinDefend) - Unknown owner - C:\Program Files (x86)\Windows Defender\MsMpEng.exe (file missing)
+O23 - Service: @%Systemroot%\system32\wbem\wmiapsrv.exe,-110 (wmiApSrv) - Unknown owner - C:\windows\system32\wbem\WmiApSrv.exe (file missing)
+O23 - Service: @%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe,-101 (WMPNetworkSvc) - Unknown owner - C:\Program Files (x86)\Windows Media Player\wmpnetwk.exe (file missing)
+
+--
+End of file - 11512 bytes
